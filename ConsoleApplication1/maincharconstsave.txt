@@ -1,0 +1,13 @@
+0 /Chapter
+You
+150 /Health
+Hands /Weapon(primary)
+Hands /Weapon(secondary)
+3 /Agility
+0 /Strength
+0 /Additional accuracy
+0 /Stealth
+5 /Leveling points
+0 /Syringes
+0 /Karma
+/end

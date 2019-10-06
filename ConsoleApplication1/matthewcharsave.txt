@@ -1,0 +1,8 @@
+Cpt. Matthew
+true //Alive Status
+200 //Health
+200 //Max Health
+AK-74 //Using Weapon
+0 //Loyalty level
+5 //Agility
+/end

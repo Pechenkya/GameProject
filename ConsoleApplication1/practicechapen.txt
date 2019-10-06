@@ -1,0 +1,206 @@
+/1
+7
+Strange Place
+
+You wake up in a strange place. You can't remember how you got here and your name. You feel little bit
+dizzy. Place looks like prison cell. You can hear voices behind the door, but you can't understand the words.
+Sun from little window under the ceil illuminates grey bad and dirty toilet. You hear footsteps behind
+door, with every step you squeeze into the bed. In a few seconds door opens and in a doorway you see 
+an old man in military uniform. He gives you a bag with clothes inside and leaves.
+2
+Wear form.
+
+Shout at the old man.
+Cpt. Matthew -1
+/1
+(1)
+/0
+Cpt. Matthew
+4
+Good morning soldier 1902. My name is Captain Matthew and I'm going to be your teacher. How did you sleep? Ahh... Whatever.
+I hope that you are ready to forthcoming day. Ok. I think you want to know what is this place. This is one of
+PIK military bases. Here you are goint to practice in shooting, hand-to-hand combat and potato peeling. Ok, I'm
+kidding. No hand-to-hand combats. Any questions soldier?
+4
+Who am I?
+
+What is PIK?
+
+Who the fuck are you!?
+Cpt. Matthew -2
+No questions, sir!
+Cpt. Matthew +1
+/0
+(2)////////////////////////////////////////////////////////////////////////////////////////////////////////////////Result Block
+/0
+Cpt. Matthew
+2
+You are a soldier, son! And soldiers have no questions!
+All that you need to know your number is 1902.
+0
+/0
+(3)
+/0
+Cpt. Matthew
+3
+PIK - is Progress Intellect Kindness. We are the world company 
+that helps people to decide global world problems.
+PIK was created in 2058 and there hasn't been a single global war since then.
+0
+/0
+(4)
+/0
+Cpt. Matthew
+3
+Like I already said you have to call me Captain Matthew. And you better watch your mouth untill
+I shut it by myself, son. There is some rules that you can't break, if you don't want to 
+get some problems in this place.
+0
+/0
+(5)
+/0
+Cpt. Matthew
+2
+Great! That what I like in good soldier! A good discipline is going to made you super-soldier!
+You are going to make a great kareer. Welcome to our organisation, son!
+0
+/0
+(6)///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/0
+Cpt. Matthew
+2
+Ok! Now we have things to do. Follow me soldier, this is going to be a hard day.
+We are going to check your skills and then you will have some practice in battle.
+0
+/0
+(7)
+/1
+5
+Strange Place
+
+Strange guy this Captain Matthew. For the first time I shoul stay away from him. I still can't remember how did I get to
+this place. Hm... PIK strange company. And why do they need military bases? And how did he named me? Something like 1902.
+Codename? Everything is so strange. I just need to see what is going to happen next.
+0
+/1
+(8)
+/0
+Cpt. Matthew
+3
+You have thoughtful look. Don't get distracted, enemies are everywhere stay attetntive! So. Now we have to
+check your skill. First fill out the form. Write about your skills, don't be a modest one, write everything
+about your abilities.
+0
+/0
+(9)//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////Add Skill tree
+/0
+Cpt. Matthew
+3
+Ok, son. Now get into the killhouse. There a few robots inside, because we can't use real people, but don't worry
+they're acting like people. You can try to sneak through this room or you can kill all the robots, the choise is yours.
+Anyway you need to take weapon with you. Look at the table behind you and pick out any weapon you want.
+4
+Pick Desert Eagle
+
+Pick AK-74
+
+Pick Nova shotgun
+
+Pick Kukri
+/0
+(10)////////////////////////////////////////////////////////////////////////////////////////////////////////////////Result Block
+/0
+Cpt. Matthew
+2
+Oh Desert Eagle good choise. À powerful and reliable, best friend in close combat.
+But remember: you still can sneak through this room. 
+0
+/0
+(11)
+/0
+Cpt. Matthew
+2
+Oh AK-74 good choise. Great russian gun. Reliable in any combat.
+But remember: you still can sneak through this room.
+0
+/0
+(12)
+/0
+Cpt. Matthew
+2
+Oh Nova good choise. Really hard to control, but the best in close combats.
+But remember: you still can sneak through this room.
+0
+/0
+(13)
+/0
+Cpt. Matthew
+2
+Oh Kukri machete. How I can see you like melee weapons.
+But remember: you still can sneak through this room.
+0
+/0
+(14)///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/1
+2
+I should try to get throungh this room. How am I gonna do that? 
+Maybe sneak? Or kill every robot in this room?
+2
+Try to sneak
+
+Assault
+
+/1
+(15)
+/0
+Cpt. Matthew
+2
+Ok, this one is done. Get the next one...
+*Everything is going dark. I think this is called death.*
+0
+/0
+(16)
+/0
+Cpt. Matthew
+3
+Well done soldier! You completed first test. How I can see you like to sneak.
+Good job. Now go to your room and have a rest. The next test 
+is waiting for you tomorrow, be ready. And leave your weapon here.
+2
+Yes, sir!
+Cpt. Matthew +1
+I have a few questions on you
+Cpt. Matthew -1
+/0
+(17)
+/0
+Cpt. Matthew
+3
+Well done soldier! You completed first test. How I can see you like to storm enemies.
+Good job. Now go to your room and have a rest. The next test 
+is waiting for you tomorrow, be ready. And leave your weapon here.
+2
+Yes, sir!
+Cpt. Matthew +1
+I have a few questions on you
+Cpt. Matthew -1
+/0
+(18)
+/0
+Cpt. Matthew
+2
+No more questions for today, soldier!
+You must have a rest. The next test  is waiting for you tomorrow, be ready.
+0
+/0
+(19)
+/1
+5
+Strange Place
+
+What a weird day. I still can't understand what is going in. I think
+I need to take a sleep. Maybe I will be able to find out what is going on here.
+Good night world...
+0
+/end
+(20)

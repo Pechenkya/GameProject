@@ -1,0 +1,47 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  BattleField.cpp
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\battlefield.cpp(73): warning C4018: <: несоответствие типов со знаком и без знака
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\battlefield.cpp(79): warning C4018: <: несоответствие типов со знаком и без знака
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\battlefield.cpp(100): warning C4018: <: несоответствие типов со знаком и без знака
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\battlefield.cpp(107): warning C4018: <: несоответствие типов со знаком и без знака
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\battlefield.cpp(112): warning C4018: <: несоответствие типов со знаком и без знака
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\battlefield.cpp(129): warning C4018: <: несоответствие типов со знаком и без знака
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\battlefield.cpp(136): warning C4018: <: несоответствие типов со знаком и без знака
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\battlefield.cpp(141): warning C4018: <: несоответствие типов со знаком и без знака
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\battlefield.cpp(343): warning C4018: <: несоответствие типов со знаком и без знака
+  BattleMode.cpp
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\battlemode.cpp(52): warning C4018: >: несоответствие типов со знаком и без знака
+  Character.cpp
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\character.cpp(171): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CompleteProject.cpp
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\completeproject.cpp(40): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Enemy.cpp
+  Firearms.cpp
+  MainCharacter.cpp
+  MainMenu.cpp
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\mainmenu.cpp(146): warning C4129: |: неизвестная escape-последовательность
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\mainmenu.cpp(160): warning C4129: |: неизвестная escape-последовательность
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\mainmenu.cpp(205): warning C4018: <: несоответствие типов со знаком и без знака
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\mainmenu.cpp(218): warning C4018: >: несоответствие типов со знаком и без знака
+  MeleeWeapon.cpp
+  Object.cpp
+  Obstacle.cpp
+  Pathfinding.cpp
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\pathfinding.cpp(209): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\pathfinding.cpp(210): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\pathfinding.cpp(212): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\pathfinding.cpp(238): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\pathfinding.cpp(268): warning C4244: return: преобразование "const float" в "int", возможна потеря данных
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\pathfinding.cpp(377): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\pathfinding.cpp(385): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Reader.cpp
+  Scene.cpp
+  SpecialBattleField.cpp
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\specialbattlefield.cpp(13): warning C4018: <: несоответствие типов со знаком и без знака
+  StoryMode.cpp
+  Vector2D.cpp
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\vector2d.cpp(38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Weapon.cpp
+d:\progs\visualstudioprojects\newbranch\gameproject\consoleapplication1\weapon.cpp(24): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  ConsoleApplication1.vcxproj -> D:\Progs\VisualStudioProjects\NewBranch\GameProject\Debug\GameProject.exe
